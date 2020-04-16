@@ -2,11 +2,16 @@ shadowsocks
 ===========
 
 [![PyPI version]][PyPI]
+[![Build Status]][Travis CI]
+[![Coverage Status]][Coverage]
 
 A fast tunnel proxy that helps you bypass firewalls.
 
 Server
 ------
+
+### Attention
+**Do not** belive any word in this README, please read wiki.
 
 ### Install
 
